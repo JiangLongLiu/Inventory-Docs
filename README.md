@@ -10,7 +10,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Overview
@@ -46,7 +46,7 @@ Inventory serves diverse practical purposes for individuals and organizations to
 The Inventory app is designed to address specific challenges in managing and tracking assets in both personal and professional settings.
 
 * **Efficiency in Locating Items**: If you cannot find an item in minutes, it's akin to not having it at all. Log the location of an item in the app, and the next time you need it, use a full-text search to find the item and view its last logged location, turning a potentially lengthy lookup into a quick, effortless task.
-* **Item Tracking with RFID**: Searching for misplaced items can be frustrating and time-consuming. Inventory can use RFID technology to quickly locate your items, saving valuable time and reducing stress. RFID can be used to rapidly log the current location of an item for future reference.
+* **Item Tracking with RFID**: Searching for misplaced items can be frustrating and time-consuming. Inventory can use RFID technology to quickly locate your items, saving valuable time and reducing stress. RFID can also be used to rapidly log the current location of an item for future reference.
 * **Proactive Stock Management**: Keeping track of your inventory can help you avoid unnecessary purchases by reminding you of what you already have. Also, by tracking stock levels, you can know what items need restocking.&#x20;
 * **Asset Loss Prevention**: Whether you're a frequent traveler or need to account for company assets after a day out in the field, Inventory can prevent asset loss during transit from leaving a site. With the help of RFID, you can be assured that nothing is left behind with just a sweep of an RFID reader, or locate a missing item using its RFID tag.
 * **Never Forget a Thing**: Whether you're a professional working on-site or an outdoor enthusiast heading for an adventure, having the right tools and equipment is vital. Inventory ensures you're prepared for these scenarios with smart checklists - whether it's ensuring that you have at least one tape measure in your toolbox, the correct chargers for your devices, or all the gear for your outdoor adventure, letting you confidently begin your journey.
