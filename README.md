@@ -69,3 +69,7 @@ Here are some links for you to get started quickly:
 
 * :arrow\_right: [**Get the app**](quickstart.md)
 * [<img src=".gitbook/assets/GitHub Mark - Gitbook Inline.svg" alt="" data-size="line"> **Check the source code on GitHub**](https://github.com/zetavg/Inventory)
+
+***
+
+[Edit this page on GitHub](https://github.com/zetavg/Inventory-Docs/edit/main/README.md)
