@@ -1,6 +1,6 @@
 # Connect an RFID Reader
 
-See [supported-rfid-devices.md](../rfid-hardware/supported-rfid-devices.md "mention") for supported devices.
+See [supported-rfid-devices.md](../rfid/supported-rfid-devices.md "mention") for supported devices.
 
 1. Open the app. Press the "More" tab on the bottom right.
 2. Press "Scan Tags" in the "RFID Tools" section.
