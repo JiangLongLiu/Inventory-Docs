@@ -21,8 +21,8 @@
 
 ## Integrations
 
-* [Integrations](integrations/README.md)
-  * [Airtable Integration](integrations/airtable.md)
+* [Data Synchronization](integrations/data-synchronization/README.md)
+  * [Airtable Integration](integrations/data-synchronization/airtable.md)
 
 ## RFID
 
@@ -30,6 +30,6 @@
 * [Supported RFID Devices](rfid/supported-rfid-devices.md)
 * [Price Estimation](rfid/price-estimation.md)
 
-## &#x20; <a href="#more" id="more"></a>
+## Untitled Group <a href="#more" id="more"></a>
 
 * [Contact](more/contact.md)
