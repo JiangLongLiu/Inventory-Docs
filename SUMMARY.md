@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Overview](overview.md)
 * [Quickstart](quickstart.md)
 * [Guides](guides/README.md)
   * [Setup & Start Using](guides/setup.md)
@@ -21,8 +21,8 @@
 
 ## Integrations
 
-* [Integrations](integrations/i/README.md)
-  * [Airtable Integration](integrations/i/airtable.md)
+* [Integrations](integrations/README.md)
+  * [Airtable Integration](integrations/airtable.md)
 
 ## RFID
 
