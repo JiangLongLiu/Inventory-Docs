@@ -27,7 +27,8 @@
 ## RFID
 
 * [RFID Overview](rfid/rfid-overview.md)
-* [Supported RFID Devices](rfid/supported-rfid-devices.md)
+* [Supported RFID Devices](rfid/supported-rfid-devices/README.md)
+  * [Chainway R5](rfid/supported-rfid-devices/chainway-r5.md)
 * [Choosing RFID Tags](rfid/choosing-rfid-tags/README.md)
   * [Different Kinds of RFID Tags](rfid/choosing-rfid-tags/different-kinds-of-rfid-tags.md)
 * [Price Estimation](rfid/price-estimation.md)
