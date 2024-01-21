@@ -6,7 +6,9 @@ Bluetooth RFID Readers that can connect to iOS/Android devices.
 
 ### Chainway
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p><a href="https://www.chainway.net/Products/Info/59"><img src="https://hackmd.io/_uploads/r1yPHJQD2.png" alt="" data-size="original"></a></p><p><a href="https://www.chainway.net/Products/Info/59"><strong>R5 Wearable RFID Reader</strong></a></p><p>iOS / Android</p><ul><li>Recommended (currently).</li><li>Size of a phone and easy to carry.</li></ul></td><td></td></tr><tr><td><p></p><p><a href="https://www.chainway.net/Products/Info/52"><img src="https://hackmd.io/_uploads/ry_gxG7D3.png" alt=""></a></p><p><a href="https://www.chainway.net/Products/Info/52"><strong>R6 UHF RFID Sled Reader</strong></a></p><p>iOS (not tested) / Android (not tested)</p><ul><li>In theory, it should work like R5. But it isn't tested yet.</li></ul></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p><a href="https://www.chainway.net/Products/Info/59"><img src="https://hackmd.io/_uploads/r1yPHJQD2.png" alt="" data-size="original"></a></p><p><a href="chainway-r5.md"><strong>R5 Wearable RFID Reader</strong></a></p><p>iOS (<a href="chainway-r5.md#notes-on-ios">notes</a>) / Android</p><ul><li>Recommended (currently).</li><li>Size of a phone and easy to carry.</li></ul></td><td></td></tr><tr><td><p></p><p><a href="https://www.chainway.net/Products/Info/52"><img src="https://hackmd.io/_uploads/ry_gxG7D3.png" alt=""></a></p><p><a href="https://www.chainway.net/Products/Info/52"><strong>R6 UHF RFID Sled Reader</strong></a></p><p>iOS (not tested) / Android (not tested)</p><ul><li>In theory, it should work like R5. But it isn't tested yet.</li></ul></td><td></td><td></td></tr></tbody></table>
+
+
 
 {% hint style="info" %}
 The Inventory app does not support changing the device’s settings, such as frequency band and device name. Please use the official [iOS](https://apps.apple.com/us/app/uhfdemo/id1456577729) or Android app to configure the device.
